@@ -1,0 +1,7 @@
+llama-index
+pydantic
+pyyaml
+openai
+chainlit
+pydantic-ai 
+wikipedia  
